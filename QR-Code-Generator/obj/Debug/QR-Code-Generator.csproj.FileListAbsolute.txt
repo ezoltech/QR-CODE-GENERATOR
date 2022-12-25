@@ -1,0 +1,10 @@
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\bin\Debug\QR-Code-Generator.exe.config
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\bin\Debug\QR-Code-Generator.exe
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\bin\Debug\QR-Code-Generator.pdb
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.csproj.AssemblyReference.cache
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR_Code_Generator.Form1.resources
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR_Code_Generator.Properties.Resources.resources
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.csproj.GenerateResource.cache
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.csproj.CoreCompileInputs.cache
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.exe
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.pdb
