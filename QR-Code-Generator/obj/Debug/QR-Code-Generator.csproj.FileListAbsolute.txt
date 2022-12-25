@@ -8,3 +8,5 @@ C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debu
 C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.csproj.CoreCompileInputs.cache
 C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.exe
 C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.pdb
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\bin\Debug\QRCoder.dll
+C:\Users\ezol best\Desktop\projects\QR-Code-Generator\QR-Code-Generator\obj\Debug\QR-Code-Generator.csproj.CopyComplete
